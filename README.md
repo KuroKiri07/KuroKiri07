@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://wall.alphacoders.com/big.php?i=1303639" alt="DOOM Banner" width="100%">
+  <img src="images/Doom_top_image" alt="DOOM Banner" width="100%">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Proyectos Avanzados:
 ---
 
 <p align="center">
-  <img src="https://wall.alphacoders.com/big.php?i=1303639" alt="DOOM Banner" width="100%">
+  <img src="images/Doom_Eternal_base_image" alt="DOOM Banner" width="100%">
 </p>
 
 ---
