@@ -19,7 +19,6 @@
 - ✍️ Hablante nativo hispano, dominio de Inglés B2 (autodidacta)
 - 🧩 Me apasiona el diseño modular, los entornos personalizados y los retos técnicos.
 - 🎮 Me inspiro en juegos indie para crear interfaces visuales únicas, así como en un amplio repertorio de conocimientos de cine.
-- 🎶 Amante fervoroso de la buena música (Metal, Rock, Indie, Jazz, Rap, y más...)
 - 🌱 Estoy estudiando actualmente Pygame-with-OpenGL, Django, JavaScript y SQL, en un futuro próximo veré Java y C# con vistas a trabajar Unity
 - 👯 Espero en un futuro trabajar en dos ramas de la programación: AI Development o VideoGames Development
 - 🧪 Siempre estoy probando nuevas formas de agregar mi propio estilo al código y hacer que el desarrollo sea más divertido y expresivo.
@@ -49,7 +48,7 @@ Proyectos Avanzados:
 
 ---
 
-## ⚡ Dato curioso: DPEPDPE
+## ⚡ Datos curioso: Me gustan los animales y soy un fanático fervoroso de la buena música.
 
 ---
 
@@ -63,11 +62,13 @@ Proyectos Avanzados:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Eduardo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)  
 [![Instagram](https://img.shields.io/badge/Instagram-@KuroKiri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kurokiri07)
-[![Discord](https://img.shields.io/badge/Discord-KuroKiri-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https:///discord.gg/KuroKiri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Gonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eduardo-gonzalez)
+[![Discord](https://img.shields.io/badge/Discord-KuroKiri-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https:///discord.com/users/876189283747262484)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Gonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kurokiri07)
 [![Blog](https://img.shields.io/badge/Blog-About_Me-ff3c00?style=for-the-badge&logo=dev.to&logoColor=white)](https://tuportafolio.com)
 
 ---
+### 📇 Conectá conmigo
+
 
 ## 💀 Contacto
 
